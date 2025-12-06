@@ -23,3 +23,30 @@ Proyek ini sebelumnya sudah dianalisis menggunakan:
 Repository GitHub ini menjadi tahap awal implementasi struktur proyek.
 
 ## Struktur Folder
+aplikasi-belajar-game/
+├── src/
+│    └── main.py
+├── docs/
+│    └── arsitektur.md
+├── assets/
+│    └── placeholder.txt
+└── README.md
+
+## Progress Belajar Git
+- [x] Setup Git lokal  
+- [x] Membuat repository GitHub  
+- [x] Commit pertama  
+- [x] Update README.md  
+- [x] Menambahkan struktur folder proyek  
+- [ ] Branching  
+- [ ] Collaboration  
+
+## Teknologi yang Direncanakan
+- Flutter / React Native untuk mobile app  
+- Node.js / Python untuk backend API  
+- PostgreSQL & MongoDB  
+- Firebase Cloud Messaging untuk notifikasi  
+- JWT untuk keamanan  
+
+## Lisensi
+MIT License
